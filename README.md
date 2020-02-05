@@ -28,5 +28,5 @@
 <br/>
 
 *-You will need Python 3.7.4 on the local machine to run.* <br/>
-*-Older versions of Python (2.\*) will result in errors due to syntax changes.* <br/>
+*-Older versions of Python may result in errors due to syntax changes.* <br/>
 *-Make sure you are in the correct directory.*
